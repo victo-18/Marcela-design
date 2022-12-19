@@ -1,0 +1,32 @@
+/* nosotros __main */
+/* */
+
+.nostros__grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+
+/*
+@media(min-width: 768px) {
+    .nosotros__grid {
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 4rem;
+
+
+    }
+}*/
+
+/*.nosotros__perfil{
+    grid-row: 1 / 2;
+}
+*/
+/*
+@media(min-width: 768px){
+    .nosotros__perfil{
+        grid-column:2 /3 ;
+    }
+} */
+
+
+
